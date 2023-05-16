@@ -1,4 +1,4 @@
 - 👋 Hello world!!! I’m @starsofchance
 - 👀 I’m interested in becoming a Developer
-- 🌱 I’m currently learning HTML, CSS, JAVA and ..
+- 🌱 I’m currently learning HTML, CSS, JavaS and ..
 - 📫 reach me at starsofchance@gmail.com
