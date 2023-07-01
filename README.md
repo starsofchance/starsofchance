@@ -1,4 +1,4 @@
-- 👋 Hello world!!! I’m @starsofchance
-- 👀 I’m interested in becoming a Developer
-- 🌱 I’m currently learning HTML, CSS, JavaS and ..
-- 📫 reach me at starsofchance@gmail.com
+##- 👋 Hello world!!! I’m Mohammad
+###- 👀 I’m on my way to become a Front-End Developer
+###- 🌱 I’m cfinished with HTML,CSS and JS
+###- 📫 reach me at starsofchance@gmail.com
