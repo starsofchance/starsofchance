@@ -6,6 +6,8 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Greetings, Earthling! I'm Mohammad Ⓜ
+
 A Front-End Developer ⌨
+
 I will never give up on my dreams and will try my best to catch up to a world, moving at the speed of light! ⚡
 
