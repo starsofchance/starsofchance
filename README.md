@@ -1,13 +1,19 @@
+# 💫 About Me:
+<br>I am a cybersecurity-oriented ML engineer with a strong foundation in deep learning and a specific focus on security and vulnerability detection. I enjoy hands-on work—from preprocessing data to building custom data collators and metric loggers.<br><br>Ultimately, I aim to become a specialist ML/LLM engineer bridging security, reliability, and practical deployment—contributing to safe, production-ready models.<br><br>- 🔭 **Currently working on:**<br>  - Researching the "Safety-Efficiency Trade-off" in **Edge-Deployed Medical AI**.<br>  - Investigating how aggressive quantization (4-bit/Int8) impacts safety alignment and adversarial robustness.<br>  - Developing frameworks to simulate hardware-level faults (Bit-Flips/Rowhammer) in Transformer architectures.<br><br>- 🤝 **Looking to collaborate on:**<br>  - **Adversarial Machine Learning:** Red-teaming strategies, automated jailbreaking (GCG/TAP), and defense mechanisms.<br>  - **Edge AI Security:** Hardware-aware security, model hardening for resource-constrained devices, and privacy-preserving inference.<br>  - **Trustworthy AI in Healthcare:** Safety alignment for medical LLMs, bias mitigation, and regulatory compliance (EU AI Act/HIPAA) for high-risk systems.<br><br>- 🌱 **Currently learning:**<br>  - Advanced methods for ensuring model reliability and robustness in unconstrained environments.<br>  - The intersection of hardware constraints and system-level security guarantees.<br>  - Scalable evaluation pipelines for AI safety and alignment.<br>
 
-![](https://github.com/starsofchance/starsofchance/blob/main/github-banner.jpg)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Greetings, Earthling! I'm Mohammad Ⓜ
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starsofchance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taghavi-far) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:starsofchance@gmail.com) 
 
-A Front-End Developer ⌨
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=starsofchance&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=starsofchance&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=starsofchance&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I will never give up on my dreams, and I will strive my hardest to keep up with a world that is moving at the speed of light! ⚡
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=starsofchance&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
